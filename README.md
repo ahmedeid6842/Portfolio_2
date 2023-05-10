@@ -50,6 +50,11 @@
   </ul>
 </details>
 
+### Key Features <a name="key-features"></a>
+- **A menu bar that allows easy navigation to different sections of the website.**
+- **Links to my social media profiles and other online presence, making it easy for visitors to connect with me.**
+- **A Contact Me form that allows visitors to get in touch with me easily.**
+- **A responsive design that works seamlessly on both desktop and mobile devices.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

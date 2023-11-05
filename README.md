@@ -114,6 +114,7 @@ To run the project, execute the following command: open index.html as normal fil
 
 - [ ] **[make the website more interative]**
 - [x] **[adding samples of my work]**
+- [x] **Enhance the design**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
